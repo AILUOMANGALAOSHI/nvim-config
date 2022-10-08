@@ -1,7 +1,7 @@
 # nvim-config
 
-
-# sudo apt install neovim (ubuntu 18以上好像才有) / sudo pacman -S neovim
-# pip3 install neovim
-# sudo apt install node npm / sudo pacman -S nodejs npm
-# 打开vim，在命令行模式下输入PlugInstall安装插件
+### https://github.com/AILUOMANGALAOSHI/nvim-config.git ~/.config/nvim
+### sudo apt install neovim
+### pip3 install neovim
+### sudo apt install nodejs(需要14版本)
+### 打开vim，在命令行模式下输入PlugInstall安装插件
