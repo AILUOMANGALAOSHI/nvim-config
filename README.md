@@ -1,6 +1,6 @@
 # nvim-config
 
-### https://github.com/AILUOMANGALAOSHI/nvim-config.git ~/.config/nvim
+### git clone https://github.com/AILUOMANGALAOSHI/nvim-config.git ~/.config/nvim
 ### sudo apt install neovim
 ### pip3 install neovim
 ### sudo apt install nodejs(需要14版本)
