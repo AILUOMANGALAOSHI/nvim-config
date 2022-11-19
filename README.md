@@ -1,6 +1,6 @@
 # nvim-config
 ## git clone https://github.com/AILUOMANGALAOSHI/nvim-config.git ~/.config/nvim
-##安装neovim(0.4以上)
+## 安装neovim(0.4以上)
 ### sudo apt install software-properties-common
 ### sudo add-apt-repository ppa:neovim-ppa/stable
 ### sudo apt update
