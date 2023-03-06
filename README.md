@@ -7,6 +7,6 @@
 ### sudo apt install neovim
 ## pip3 install neovim
 ## 安装nodejs(需要14版本)
-### curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+### curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
 ### sudo apt install nodejs
 ### 打开nvim，在命令行模式下输入PlugInstall安装插件
